@@ -27,6 +27,7 @@ Un reto nuevo cada día, gratis, en el navegador y sin registro.
 | 🪞 | [Espejismo](https://zaicalabs.com/games/espejismo/) | Dispara rayos y deduce dónde están los espejos ocultos. |
 | 🌉 | [Puentes](https://zaicalabs.com/games/puentes/) | Une las islas con puentes hasta que todas queden conectadas. |
 | 🎨 | [Manchas](https://zaicalabs.com/games/manchas/) | Multijugador: pinta territorio cerrando lazos con tu gota. |
+| 🃏 | [Mus](https://zaicalabs.com/games/mus/) | Mus por parejas a 30 o 40 tantos, contra la IA o con amigos. |
 
 ## Más proyectos
 
