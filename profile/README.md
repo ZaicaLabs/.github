@@ -31,6 +31,7 @@ Un reto nuevo cada día, gratis, en el navegador y sin registro.
 
 ## Más proyectos
 
+- 🎯 [Rebote](https://rebote.zaicalabs.com) — shooter 3D multijugador en el navegador: las balas rebotan y cada rebote hace más daño.
 - 🧱 [Brickburst](https://zaicalabs.com/games/brickburst) — juego de físicas frenético en el navegador.
 - 📍 [WhereAmI](https://play.google.com/store/apps/details?id=com.zaicalabs.whereami) — geolocalización y telemetría para Android y Android Auto.
 
